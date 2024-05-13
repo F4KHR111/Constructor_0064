@@ -39,7 +39,7 @@ public:
 
 int main()
 {
-    Mahasiswa mhs1();
+    Mahasiswa mhs1;
     Mahasiswa mhs2(20);
     Mahasiswa mhs3("Rohman");
     Mahasiswa mhs4(31, "Arul");
