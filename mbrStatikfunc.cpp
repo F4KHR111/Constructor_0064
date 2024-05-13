@@ -39,7 +39,7 @@ void mahasiswa::printAll()
 
 int main()
 {
-    mahasiswa mhs1("Sri Dadi");
+    mahasiswa mhs1("Sri Dandi");
     mahasiswa mhs2("Budi Jatmiko");
 
     mahasiswa::setNim(9);
